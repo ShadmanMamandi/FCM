@@ -1,14 +1,13 @@
 package main;
 
 /**
- * Created by fatemeh on 1/11/2017.
+ * Created by shadman on 1/11/2017.
  */
 public class Main {
 
     public static void main(String[] args) {
 
         System.out.println("Sending Post to FCM");
-
         String apikey = "AIzaSyBbbVrLt_LFWO58rb3B9v2Isq4a1Zo6zQM";
         Content content = createContent();
 

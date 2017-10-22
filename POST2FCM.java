@@ -10,7 +10,7 @@ import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
 /**
- * Created by fatemeh on 1/11/2017.
+ * Created by shadman on 1/11/2017.
  */
 public class POST2FCM {
 
